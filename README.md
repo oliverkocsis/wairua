@@ -1,4 +1,4 @@
-## 🧠 Wairua – Your Own Knowledgebase
+## 🧠 Wairua – The Guardian of Your Knowledge
 
 **Wairua** is an AI-powered, local-first assistant that helps you query your own knowledge. Feed it notes, documents, or PDFs—Memora learns from your content and responds like a helpful human assistant.
 
