@@ -13,3 +13,14 @@
 - Create a self-hosted, extensible knowledge assistant
 - Prioritize privacy and local storage
 - Build a simple and beautiful dev experience for power users
+
+### Getting Started
+
+```
+source .venv/bin/activate
+streamlit run app.py
+``` 
+
+```
+ollama serve
+```
